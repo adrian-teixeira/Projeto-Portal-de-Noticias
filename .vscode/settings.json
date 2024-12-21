@@ -1,0 +1,28 @@
+{
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Ayu Dark",
+    "editor.minimap.enabled": false,
+    "diffEditor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 500,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.wordWrap": "on",
+    "glassit.alpha": 255,
+    "html.hover.references": false,
+    "css.hover.references": false,
+    "workbench.iconTheme": "vscode-icons",
+    "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "json.schemas": [
+    
+    ]
+    
+    }
