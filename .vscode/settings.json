@@ -11,7 +11,7 @@
     "glassit.alpha": 255,
     "html.hover.references": false,
     "css.hover.references": false,
-    "workbench.iconTheme": "vscode-icons",
+    "workbench.iconTheme": "icons",
     "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
@@ -21,8 +21,8 @@
     "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "json.schemas": [
-    
-    ]
-    
+    "json.schemas": [],
+    "editor.folding": true,
+    "editor.guides.indentation": true,
+    "editor.foldingStrategy": "auto"
     }
